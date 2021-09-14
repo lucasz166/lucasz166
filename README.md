@@ -1,16 +1,14 @@
-### Hi there 👋
+### Lucas Gabriel
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas_Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-gabriel-a4ba60208//)](https://www.linkedin.com/in/lucas-gabriel-a4ba60208/) [![Gmail Badge](https://img.shields.io/badge/-lucasgaguiar.rocha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgaguiar.rocha@gmail.com)](mailto:lucasgaguiar.rocha@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<!--
-**lucasz166/lucasz166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Learning :** Web and Mobile Development | Open-Source
+-  **Hobbies :** Gamming 🎮, Motorcycles 🏍️ and Bodybuilding 🦾
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=lucasz166&show_icons=true&theme=tokyonight)
+<br></br>
+![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lucasz166&layout=compact&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kudos to https://github.com/srIsaac for designing this awesome `Readme.md`
